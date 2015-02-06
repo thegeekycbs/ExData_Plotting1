@@ -1,6 +1,2 @@
-
-git add plot1.png
-git commit -m 'add png file'
-git remote add origin https://github.com/xxx.git
-git push -u origin master
+![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
